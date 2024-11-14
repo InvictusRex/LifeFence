@@ -34,7 +34,7 @@ Follow the detailed instructions in the [lifefence-backend README](lifefence-bac
 
 ### Frontend Setup
 
-Instructions for setting up the Flutter frontend are available in the [lifefence-frontend README](lifefence-frontend/README.md).
+Instructions for setting up the React Native open source UI-software framework for frontend are available in the [lifefence-frontend README](lifefence-frontend/README.md).
 
 ### Literature Review
 
